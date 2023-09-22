@@ -15,6 +15,6 @@
 
 
 ### 1. Hasil Program
-![First](Img/1.png)
+![First](img/1.png)
 
 
